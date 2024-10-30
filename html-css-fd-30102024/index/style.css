@@ -1,0 +1,21 @@
+html {
+    background-color: grey;
+}
+body{
+    width: 600px;
+    margin: auto;
+    box-sizing: border-box;
+    background-color: white;
+    padding-left: 2px;
+    text-align: center;
+    padding-top: 5px;
+    align-self: center;
+    margin-top: 15%;
+    border-radius: 1%;
+    border: solid black 1px;
+    padding-bottom: 1px;
+    padding-right: 9px;
+}
+input, select{
+width: 100%;
+}
